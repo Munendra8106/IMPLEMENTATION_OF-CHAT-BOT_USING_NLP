@@ -66,4 +66,4 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-For any questions or issues, please reach out via email at pavan.macha46@gmail.com
+For any questions or issues, please reach out via email at munendra8106@gmail.com
